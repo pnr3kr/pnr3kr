@@ -1,2 +1,2 @@
 ## 
-Hi, I am a fourth-year in the School of Data Science at UVA!
+Hi, I am Tristen Davin, a fourth-year data science student at the University of Virginia concentrating in design. I am also a student intern with UVA Online Education and Digital Innovation.
